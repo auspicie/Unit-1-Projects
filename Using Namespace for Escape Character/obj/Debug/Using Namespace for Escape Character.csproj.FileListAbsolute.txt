@@ -1,0 +1,8 @@
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\bin\Debug\Using Namespace for Escape Character.exe.config
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\bin\Debug\Using Namespace for Escape Character.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\bin\Debug\Using Namespace for Escape Character.pdb
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\obj\Debug\Using Namespace for Escape Character.csproj.AssemblyReference.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\obj\Debug\Using Namespace for Escape Character.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\obj\Debug\Using Namespace for Escape Character.csproj.CoreCompileInputs.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\obj\Debug\Using Namespace for Escape Character.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Escape Character\obj\Debug\Using Namespace for Escape Character.pdb

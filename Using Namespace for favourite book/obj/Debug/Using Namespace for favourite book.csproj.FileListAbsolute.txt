@@ -1,0 +1,8 @@
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\bin\Debug\Using Namespace for favourite book.exe.config
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\bin\Debug\Using Namespace for favourite book.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\bin\Debug\Using Namespace for favourite book.pdb
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\obj\Debug\Using Namespace for favourite book.csproj.AssemblyReference.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\obj\Debug\Using Namespace for favourite book.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\obj\Debug\Using Namespace for favourite book.csproj.CoreCompileInputs.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\obj\Debug\Using Namespace for favourite book.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for favourite book\obj\Debug\Using Namespace for favourite book.pdb

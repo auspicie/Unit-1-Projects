@@ -1,0 +1,8 @@
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\bin\Debug\Module.exe.config
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\bin\Debug\Module.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\bin\Debug\Module.pdb
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\obj\Debug\Console IO a.csproj.AssemblyReference.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\obj\Debug\Console IO a.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\obj\Debug\Console IO a.csproj.CoreCompileInputs.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\obj\Debug\Module.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Module\obj\Debug\Module.pdb

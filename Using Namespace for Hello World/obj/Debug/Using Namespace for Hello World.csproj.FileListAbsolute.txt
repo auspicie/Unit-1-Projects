@@ -1,0 +1,8 @@
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\bin\Debug\Using Namespace for Hello World.exe.config
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\bin\Debug\Using Namespace for Hello World.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\bin\Debug\Using Namespace for Hello World.pdb
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\obj\Debug\Using Namespace for Hello World.csproj.AssemblyReference.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\obj\Debug\Using Namespace for Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\obj\Debug\Using Namespace for Hello World.csproj.CoreCompileInputs.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\obj\Debug\Using Namespace for Hello World.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace for Hello World\obj\Debug\Using Namespace for Hello World.pdb

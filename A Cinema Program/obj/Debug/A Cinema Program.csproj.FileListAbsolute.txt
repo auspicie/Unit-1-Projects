@@ -1,0 +1,8 @@
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\bin\Debug\A Cinema Program.exe.config
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\bin\Debug\A Cinema Program.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\bin\Debug\A Cinema Program.pdb
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\obj\Debug\A Cinema Program.csproj.AssemblyReference.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\obj\Debug\A Cinema Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\obj\Debug\A Cinema Program.csproj.CoreCompileInputs.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\obj\Debug\A Cinema Program.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\A Cinema Program\obj\Debug\A Cinema Program.pdb

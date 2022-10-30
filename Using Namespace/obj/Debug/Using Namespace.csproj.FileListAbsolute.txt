@@ -1,0 +1,8 @@
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\bin\Debug\Using Namespace.exe.config
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\bin\Debug\Using Namespace.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\bin\Debug\Using Namespace.pdb
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\obj\Debug\Using Namespace.csproj.AssemblyReference.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\obj\Debug\Using Namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\obj\Debug\Using Namespace.csproj.CoreCompileInputs.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\obj\Debug\Using Namespace.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Using Namespace\obj\Debug\Using Namespace.pdb

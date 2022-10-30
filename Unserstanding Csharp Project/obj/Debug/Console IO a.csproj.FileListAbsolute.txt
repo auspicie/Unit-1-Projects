@@ -1,0 +1,8 @@
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\bin\Debug\Unserstanding Csharp Project.exe.config
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\bin\Debug\Unserstanding Csharp Project.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\bin\Debug\Unserstanding Csharp Project.pdb
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\obj\Debug\Console IO a.csproj.AssemblyReference.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\obj\Debug\Console IO a.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\obj\Debug\Console IO a.csproj.CoreCompileInputs.cache
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\obj\Debug\Unserstanding Csharp Project.exe
+C:\Users\bayus\source\repos\Unit 1 Projects\Unserstanding Csharp Project\obj\Debug\Unserstanding Csharp Project.pdb
